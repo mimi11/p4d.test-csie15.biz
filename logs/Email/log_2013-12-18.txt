@@ -1,0 +1,9 @@
+2013-12-18 18:23:33 - INFO --> -------------------------- 
+2013-12-18 18:23:33 - INFO --> Controller/Method: users/p_signup 
+2013-12-18 18:23:33 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY cmelhorn@g.harvard.edu 
+2013-12-18 18:23:33 - INFO --> From: CMBUZZ (cmelhorn@g.harvard.edu) 
+2013-12-18 18:23:33 - INFO --> To: Dan (dan@gmail.com),  
+2013-12-18 18:23:33 - INFO --> CC:  
+2013-12-18 18:23:33 - INFO --> BCC:  
+2013-12-18 18:23:33 - INFO --> Subject: Welcome to Chatter 
+2013-12-18 18:23:33 - INFO --> Body: This is just a message to confirm your registration at Chatter.biz 

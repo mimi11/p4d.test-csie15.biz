@@ -1,0 +1,27 @@
+2013-12-15 0:15:57 - INFO --> -------------------------- 
+2013-12-15 0:15:57 - INFO --> Controller/Method: users/p_signup 
+2013-12-15 0:15:57 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY cmelhorn@g.harvard.edu 
+2013-12-15 0:15:57 - INFO --> From: CMBUZZ (cmelhorn@g.harvard.edu) 
+2013-12-15 0:15:57 - INFO --> To: Mike (mike.safwat@efxnews.com),  
+2013-12-15 0:15:57 - INFO --> CC:  
+2013-12-15 0:15:57 - INFO --> BCC:  
+2013-12-15 0:15:57 - INFO --> Subject: Welcome to Chatter 
+2013-12-15 0:15:57 - INFO --> Body: This is just a message to confirm your registration at Chatter.biz 
+2013-12-15 23:34:57 - INFO --> -------------------------- 
+2013-12-15 23:34:57 - INFO --> Controller/Method: users/p_signup 
+2013-12-15 23:34:57 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY cmelhorn@g.harvard.edu 
+2013-12-15 23:34:57 - INFO --> From: CMBUZZ (cmelhorn@g.harvard.edu) 
+2013-12-15 23:34:57 - INFO --> To: Susan (susan@fas.harvard.edu),  
+2013-12-15 23:34:57 - INFO --> CC:  
+2013-12-15 23:34:57 - INFO --> BCC:  
+2013-12-15 23:34:57 - INFO --> Subject: Welcome to Chatter 
+2013-12-15 23:34:57 - INFO --> Body: This is just a message to confirm your registration at Chatter.biz 
+2013-12-15 23:45:15 - INFO --> -------------------------- 
+2013-12-15 23:45:15 - INFO --> Controller/Method: users/p_signup 
+2013-12-15 23:45:15 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY cmelhorn@g.harvard.edu 
+2013-12-15 23:45:15 - INFO --> From: CMBUZZ (cmelhorn@g.harvard.edu) 
+2013-12-15 23:45:15 - INFO --> To: James (james.bond@gmail.com),  
+2013-12-15 23:45:15 - INFO --> CC:  
+2013-12-15 23:45:15 - INFO --> BCC:  
+2013-12-15 23:45:15 - INFO --> Subject: Welcome to Chatter 
+2013-12-15 23:45:15 - INFO --> Body: This is just a message to confirm your registration at Chatter.biz 
